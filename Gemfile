@@ -21,6 +21,11 @@ group :test do # added in chapter 3
   gem 'autotest-growl', '0.2.16'
 end
 
+# group :production do
+#   gem 'pg'
+#   gem 'thin'
+# end
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
